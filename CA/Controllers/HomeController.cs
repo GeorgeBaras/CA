@@ -32,6 +32,12 @@ namespace CA.Controllers
             return View();
         }
 
+        public ActionResult Publications()
+        {
+            ViewBag.Message = "Publications";
+
+            return View();
+        }
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
