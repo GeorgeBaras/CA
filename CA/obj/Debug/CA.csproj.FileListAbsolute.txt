@@ -1,0 +1,192 @@
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\ApplicationInsights.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\csc.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\csc.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\csc.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\csi.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\csi.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.AppContext.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\vbc.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\vbc.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\vbc.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\VBCSCompiler.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\CA.dll.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\CA.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\CA.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\EntityFramework.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.Web.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Helpers.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Mvc.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Optimization.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Razor.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\WebGrease.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Helpers.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Mvc.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Optimization.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.Razor.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\EntityFramework.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\bin\Microsoft.AI.Web.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\obj\Debug\CA.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\obj\Debug\CA.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA - BeforeMultilingual\CA\obj\Debug\CA.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\ApplicationInsights.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\csc.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\csc.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\csc.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\csi.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\csi.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.AppContext.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\vbc.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\vbc.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\vbc.rsp
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\VBCSCompiler.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\CA.dll.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\CA.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\CA.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\EntityFramework.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.Web.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Owin.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Helpers.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Mvc.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Optimization.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Razor.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\WebGrease.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Helpers.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Mvc.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Optimization.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.Razor.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\EntityFramework.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\bin\Microsoft.AI.Web.xml
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\obj\Debug\CA.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\obj\Debug\CA.dll
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\CA\CA\obj\Debug\CA.pdb

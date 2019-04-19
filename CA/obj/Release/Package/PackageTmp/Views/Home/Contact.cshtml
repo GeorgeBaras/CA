@@ -1,0 +1,92 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+<script>
+    document.getElementById("contactGR").style.fontWeight = 'bold';
+    document.getElementById("contactGR").style.color = 'green';
+    document.getElementById("contactEN").style.fontWeight = 'bold';
+    document.getElementById("contactEN").style.color ='green';
+</script>
+
+<h2> </h2>
+<!--
+<h2>@ViewBag.Title.</h2>
+-->
+<div><br /></div>
+<div class="row">
+
+    <div class="col-lg-6">
+        <div class="en">
+            Send us your questions
+        </div>
+        <div class="gr">
+            Στείλτε μας τις ερωτήσεις σας
+        </div>
+        @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { onsubmit = "return alert('Message sent!')" }))
+        {
+            <br /><br />
+            <div class="form-group">
+                <label for="name" class="control-label col-md-2 en">Name</label>
+                <label for="name" class="control-label col-md-2 gr">Όνομα</label>
+                <div class="col-md-10">
+                    <input type="text" name="userName" class="form-control" required="required" />
+                </div>
+            </div>
+            <br /><br />
+            <div class="form-group">
+                <label for="email" class="control-label col-md-2">Email</label>
+                <div class="col-md-10">
+                    <input type="email" name="userEmail" class="form-control" required="required" />
+                </div>
+            </div>
+            <br /><br />
+            <label class="control-label col-md-2 en">Comment</label>
+            <label class="control-label col-md-2 gr">Σχόλιο</label>
+
+            <div class="col-md-8">   
+                <textarea name="userComment" rows="7" cols="200" style="width:350px;" required="required"></textarea>
+            </div>
+            <br />
+            <div class="col-md-8 form-group">
+                <label for="submit" class="control-label col-md-10"> </label>
+                <div class="col-md-10">
+                   &nbsp;<input type="submit" value="Send" class="btn-toolbar" size="20" />
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <div class="col-lg-6 gr">
+        Βρείτε μας στο <a target="_blank" href="https://www.linkedin.com/company/c-a-hellas-certified-public-accountants/"><img src="~/Content/linkedin_circle_color-512.png" style="width:20px;height:20px;" /></a>
+        <address>
+            Ελ. Βενιζέλου 59   <br />
+            176 71 Καλλιθέα<br />
+            <abbr title="Phone">T:</abbr>
+            <a href="tel:210-957-5304">210 9575304-5</a><br />
+            <abbr title="Fax">Φ:</abbr>
+            210 9575306<br />
+            <abbr title="e-mail">E:</abbr>
+            <a href="mailto:info@ca-hellas.com?Subject=CA%20Hellas" target="_top">info@ca-hellas.com</a><br />
+        </address>
+    
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.680612308452!2d23.708125515323065!3d37.9612428797259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bcfeb619953b%3A0xc172f22315c122eb!2sLeof.+El.+Venizelou+59%2C+Kallithea+176+71!5e0!3m2!1sen!2sgr!4v1496078622294" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+
+    <div class="col-lg-6 en">
+        Find us on <a target="_blank" href="https://www.linkedin.com/company/c-a-hellas-certified-public-accountants/"><img src="~/Content/linkedin_circle_color-512.png" style="width:20px;height:20px;" /></a>
+        <address>
+            El. Venizelou 59   <br />
+            176 71 Kallithea<br />
+            <abbr title="Phone">P:</abbr>
+            210 9575304-5<br />
+            <abbr title="Fax">F:</abbr>
+            210 9575306<br />
+            <abbr title="e-mail">E:</abbr>
+            <a href="mailto:info@ca-hellas.com?Subject=CA%20Hellas" target="_top">info@ca-hellas.com</a><br />
+        </address>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.680612308452!2d23.708125515323065!3d37.9612428797259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bcfeb619953b%3A0xc172f22315c122eb!2sLeof.+El.+Venizelou+59%2C+Kallithea+176+71!5e0!3m2!1sen!2sgr!4v1496078622294" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2> </h2>
+<div><br /></div>
+<div>
+    <div class="row">
+
+        <div class="col-lg-6">
+            <div class="gr" >
+                
+                    <p>Η εταιρεία μας <b><a target="_blank" href="https://www.linkedin.com/company/c-a-hellas-certified-public-accountants/">C & A Hellas</a></b> Ορκωτοί Ελεγκτές & Σύμβουλοι Επιχειρήσεων ΙΚΕ είναι εταιρεία Ορκωτών Ελεγκτών Λογιστών και Συμβούλων Επιχειρήσεων, είναι δε μέλος του Σώματος Ελλήνων Ορκωτών Ελεγκτών Λογιστών Ελλάδας.</p>
+                    <p>Φιλοδοξία μας και επομένως προσπάθειά μας είναι να παρέχουμε στους πελάτες μας υπηρεσίες υψηλής ποιότητας. Για το λόγο αυτό, δίνουμε μεγάλη έμφαση στην κατανόηση των δραστηριοτήτων των πελατών μας, των αγορών μέσα στις οποίες ανταγωνίζονται, των επιχειρηματικών τους στόχων και δυνατοτήτων και ειδικότερα των προβλημάτων που τους απασχολούν.</p>
+                    <p>Βασική μας αρχή είναι ο απόλυτος σεβασμός της εμπιστευτικότητας των στοιχείων των πελατών μας και η παροχή ποιοτικών υπηρεσιών.</p>
+                    <p>Οι υπηρεσίες μας είναι: </p>
+                 <div style="float:left;">
+                    <b>@Html.ActionLink("Ελεγκτικές υπηρεσίες", "AuditServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Συμβουλευτικές υπηρεσίες", "ConsultingServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Φορολογικές Υπηρεσίες", "TaxationServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Λογιστικές Υπηρεσίες", "AccountingServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Υπηρεσίες Εσωτερικού Ελέγχου", "InternalServices", "Home")</b><br>
+                 </div>
+            </div>
+
+            <div class="en" >
+                    <p><b><a target="_blank" href="https://www.linkedin.com/company/c-a-hellas-certified-public-accountants/">C & A Hellas</a></b> Certified Public Accountants and Business Consultants PC is an Audit Firm, member of the Greek Association of Certified Public Accountants.</p>
+                    <p>Our aim is to build a solid professional basis for our clients. We do this in a number of ways.  By providing focus on relevant detail whilst concentrating in longer term plans and viewing local and national progress within the context of each client’s local and global strategy.</p>
+                    <p>To ensure that the above standards are met at all times, we invest in understanding our clients and their business, the markets in which they compete and their business objectives.</p>
+                    <p>Our reputation for excellence and integrity is our most precious asset and all our staff know that they are working to enhance both our clients’ businesses and the future of our Firm.</p>
+                    <p>The main professional services provided by our firm are: </p>
+                 <div style="float:left;">
+                    <b>@Html.ActionLink("Audit services", "AuditServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Consulting services", "ConsultingServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Taxation services", "TaxationServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Accounting services", "AccountingServices", "Home")</b><br>
+                    <b>@Html.ActionLink("Internal audit services", "InternalServices", "Home")</b><br>
+                 </div>
+            </div>
+           
+        </div>
+
+
+        <div class="col-lg-6">
+            <div class="gr" style="float:left;">
+                <img src="~/Content/stock_gr.jpg" style="width:550px;height:400px; left:100px;"/>
+                <!--
+                    
+                style="max-width:100%; max-height:100%;"
+
+                   -->
+            </div>
+            <div class="en" style="float:left;">
+                <img src="~/Content/stock_en.jpg" style="width:550px;height:400px; left:100px;" />
+            </div>
+        </div>
+        
+    </div>
+
